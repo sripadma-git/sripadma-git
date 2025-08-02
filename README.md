@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sri Padma Chintha</h1>
+<h1 align="center">Hi 👋, I'm Sri Padma Chinta</h1>
 <h3 align="center">A passionate Cloud & DevOps Enginner from India</h3>
 
 <img align="right" alt="Coder GIF" height=270 width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Full Stack & DevOps**
 
 - 📫 How to reach me **sripadmachintha@gmail.com**
 
