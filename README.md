@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coder GIF" height=270 width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> 
 
-- 🔭 I’m currently working on **Frontend projects**
+- 🔭 I’m currently working on **Full Stack Projects projects**
 
 - 🌱 I’m currently learning **openshift**
 
