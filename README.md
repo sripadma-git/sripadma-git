@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **sripadmachintha@gmail.com**
 
-- ⚡ Fun fact **I teach my friends about Cloud & DevOps class every day.**
 -  🎨🚀 Sri Padma Chinta - Personal Portfolio Website : https://sripadma-git.github.io/Personal-Portfolio-Website/
 
 
